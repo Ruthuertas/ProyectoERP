@@ -216,7 +216,7 @@ a:active {
     .hero-area start
 --*/
 .bg-1 {
-  background-image: url("../images/header-bg.jpg");
+  background-image: url("../images/isla2.jpg");
   background-size: cover;
   background-attachment: fixed; }
 
@@ -328,12 +328,12 @@ a:active {
   font-size: 26px;
   font-weight: 300;
   line-height: 36px;
-  color: #7e7e7e;
+  color: #1bafb4;
   margin-bottom: 20px;
   font-family: 'Droid Serif', serif; }
 
 .about .about-slider img {
-  width: 100%;
+  width: 80%;
   height: auto; }
 
 /*--
